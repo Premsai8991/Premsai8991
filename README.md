@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Premsai8991
 - 👀 I’m interested in Cloud Architect
-- 🌱 I’m currently learning Masters in FAU
+- 🌱 I’m currently learning Master's in FAU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
