@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Premsai8991
-- 👀 I’m interested in Cloud Architect
+- 👋 Hi, I’m @Naga Prem Sai Nellure
+- 👀 I’m interested in Cloud Architecture, Analyst and Software Developer roles
 - 🌱 I’m currently learning Master's in FAU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
